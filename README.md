@@ -1,6 +1,6 @@
-# flutter_application_2
+# Simple_WeatherApp
 
-A new Flutter project.
+My FirstApp using Flutter Framwork.
 
 ## Getting Started
 
