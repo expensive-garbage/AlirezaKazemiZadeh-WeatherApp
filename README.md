@@ -1,6 +1,6 @@
 # Simple_WeatherApp
 
-My FirstApp using Flutter Framwork.
+My FirstApp using Flutter Framework.
 
 ## Getting Started
 
